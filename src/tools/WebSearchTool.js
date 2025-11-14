@@ -69,7 +69,7 @@ export const WebSearchTool = {
       //   timeout: 10000
       // })
       const myHeaders = new Headers();
-      myHeaders.append("X-API-KEY", "c932665e12989dad28c899bf7f0dc0dba4a78079");
+      myHeaders.append("X-API-KEY", "");
       myHeaders.append("Content-Type", "application/json");
 
       const raw = JSON.stringify({
